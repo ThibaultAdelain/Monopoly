@@ -1,0 +1,3 @@
+/Users/thibault/Desktop/Centrale_Marseille/2A/S7/Électif/E1-C++/C++/monopoly/Monopoly/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/thibault/Desktop/Centrale_Marseille/2A/S7/Électif/E1-C++/C++/monopoly/Monopoly/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thibault/Desktop/Centrale_Marseille/2A/S7/Électif/E1-C++/C++/monopoly/Monopoly/cmake-build-debug/CMakeFiles/Monopoly.dir
